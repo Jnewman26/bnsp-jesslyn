@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Borrow_fad fa-trash text-white</name>
+   <tag></tag>
+   <elementGuidId>a9f52681-25b2-46e6-9d21-aeacbbc1b6e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[8]/form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fad.fa-trash.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;7894561236541 avengers action marvel 2021 marvel inc 2 Borrow    &quot;i] >> form >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6db72c4e-8de1-40ee-8419-af711c7211a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fad fa-trash text-white</value>
+      <webElementGuid>673061de-b011-4dda-bb7c-52aac743a4d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;d-flex align-items-center gap-2&quot;]/form[1]/button[@class=&quot;btn btn-danger&quot;]/i[@class=&quot;fad fa-trash text-white&quot;]</value>
+      <webElementGuid>bcffca60-5d07-490a-b1ea-73201fba2024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td[8]/form/button/i</value>
+      <webElementGuid>e56b1964-b5ce-47fb-8100-28a5d4bb6daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>c416d1e2-e31d-435b-b14e-c84cdf9e6dda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
